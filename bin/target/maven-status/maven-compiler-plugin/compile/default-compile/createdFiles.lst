@@ -1,0 +1,7 @@
+fr\zki\tuto\controller\UserController.class
+fr\zki\tuto\config\AppInitializer.class
+fr\zki\tuto\config\HibernateConfig.class
+fr\zki\tuto\model\User.class
+fr\zki\tuto\service\UserService.class
+fr\zki\tuto\config\WebMvcConfig.class
+fr\zki\tuto\dao\UserDao.class
